@@ -1,2 +1,1 @@
-#g++ -std=c++17 -Wc++17-extensions src/single_osc.cpp -o single_osc -framework CoreAudio -Iinclude/
-g++ -std=c++17 -Wc++17-extensions libstdaudio-master/examples/sine_wave.cpp -o single_osc -framework CoreAudio -Iinclude/
+g++ -std=c++17 -Wc++17-extensions src/single_osc.cpp -o single_osc -framework CoreAudio -Iinclude/
